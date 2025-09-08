@@ -12,7 +12,7 @@ interface PasswordProtectionProps {
   requiredPassword?: string
 }
 
-const DEFAULT_PASSWORD = "Zeka12444@"
+const DEFAULT_PASSWORD = "amerika12."
 
 export function PasswordProtection({ 
   children, 
