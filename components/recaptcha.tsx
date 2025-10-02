@@ -25,7 +25,7 @@ interface RecaptchaProps {
   theme?: 'light' | 'dark'
 }
 
-const RECAPTCHA_SITE_KEY = process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY || "6LdML9grAAAAAFxsIP0_spetGEe0yjYbt0hFhoZW"
+const RECAPTCHA_SITE_KEY = process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY || "6LcslNsrAAAAAOemfwERcbi0GaN5nfvCpi7ji3mn"
 
 // Hook to check if reCAPTCHA is loaded
 function useRecaptchaLoaded() {
