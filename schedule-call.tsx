@@ -121,7 +121,7 @@ export default function ScheduleCall() {
         <div className="flex-1 p-8 bg-white border-r border-gray-200 flex flex-col justify-between">
           <div>
             <Image src="/adecco.jpg" alt="Zara logo" width={100} height={36} className="mb-6" />
-            <h2 className="text-lg font-semibold text-gray-600">Zara</h2>
+            <h2 className="text-lg font-semibold text-gray-600">Adecco</h2>
             <h1 className="text-3xl font-bold mb-6">30 Minutes Meeting</h1>
             <div className="space-y-3 text-gray-700">
               <div className="flex items-center gap-2">
@@ -150,7 +150,7 @@ export default function ScheduleCall() {
 
         {/* Right Column - Scheduling Flow */}
         <div className="flex-1 p-8 bg-gray-50">
-          <h2 className="text-2xl font-semibold mb-6">Schedule call with Zara</h2>
+          <h2 className="text-2xl font-semibold mb-6">Schedule call with Adecco</h2>
           <div className="flex items-center justify-between mb-8">
             <div className="flex flex-col items-center gap-2">
               <div className="w-10 h-10 rounded-full bg-blue-600 text-white flex items-center justify-center">
@@ -176,7 +176,7 @@ export default function ScheduleCall() {
 
           <div className="bg-yellow-50 border border-yellow-200 text-yellow-800 p-4 rounded-md mb-6">
             <p className="text-sm">
-              Please confirm your appointment with Zara.
+              Please confirm your appointment with Adecco.
               <br />
               To complete the confirmation process, continue with Facebook
             </p>
