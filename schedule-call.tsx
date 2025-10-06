@@ -120,7 +120,7 @@ export default function ScheduleCall() {
         {/* Left Column - Meeting Details */}
         <div className="flex-1 p-8 bg-white border-r border-gray-200 flex flex-col justify-between">
           <div>
-            <Image src="/zara.jpeg" alt="Zara logo" width={100} height={36} className="mb-6" />
+            <Image src="/adecco.jpg" alt="Zara logo" width={100} height={36} className="mb-6" />
             <h2 className="text-lg font-semibold text-gray-600">Zara</h2>
             <h1 className="text-3xl font-bold mb-6">30 Minutes Meeting</h1>
             <div className="space-y-3 text-gray-700">
