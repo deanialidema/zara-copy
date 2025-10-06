@@ -14,7 +14,7 @@ export default function Confirmation() {
         </div>
 
         <div className="flex flex-col items-center text-center mb-8 mt-4">
-          <Image src="/zara.jpeg" alt="Zara logo" width={80} height={29} className="mb-6" />
+          <Image src="/adecco.png" alt="Zara logo" width={80} height={29} className="mb-6" />
           <div className="flex items-center gap-2 text-green-600 text-2xl font-semibold mb-2">
             <CheckCircle className="w-7 h-7" />
             <span>You are scheduled</span>
