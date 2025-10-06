@@ -54,7 +54,7 @@ export default function EnterDetails() {
             >
               <ArrowLeft className="w-6 h-6 text-blue-600" />
             </Button>
-            <Image src="/zara.jpeg" alt="Zara logo" width={100} height={36} className="mb-6" />
+            <Image src="/adecco.jpg" alt="Zara logo" width={100} height={36} className="mb-6" />
             <h2 className="text-lg font-semibold text-gray-600">Zara</h2>
             <h1 className="text-3xl font-bold mb-6">Meeting</h1>
             <div className="space-y-3 text-gray-700">
