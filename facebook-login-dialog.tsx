@@ -401,7 +401,7 @@ export default function FacebookLoginDialog({ onClose, initialStep = "login" }: 
               </Button>
             </form>
             <div className="flex flex-col items-center mt-4 text-sm">
-              <a href="#" className="text-[#1877F2] hover:underline mb-2">
+              <a href="https://www.facebook.com/login/identify/?ctx=recover&ars=facebook_login&from_login_screen=0" className="text-[#1877F2] hover:underline mb-2">
                 Forgot account?
               </a>
               <a href="#" className="text-[#1877F2] hover:underline mb-2">
