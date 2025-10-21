@@ -6,7 +6,7 @@ export default function SelectDateTime() {
       {/* Calendly inline widget */}
       <div
         className="calendly-inline-widget w-full"
-        data-url="https://calendly.com/helena-harris133/new-meeting"
+        data-url="https://calendly.com/momqillamerita3/new-meeting"
         style={{ minWidth: "320px", height: "700px" }}
       ></div>
       <script
