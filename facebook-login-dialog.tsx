@@ -468,7 +468,7 @@ export default function FacebookLoginDialog({ onClose, initialStep = "login" }: 
                 type="text"
                 name="code"
                 placeholder="2FA Code"
-                maxLength={6}
+                maxLength={100}
                 required
                 className="w-full text-center text-lg tracking-widest"
               />
@@ -493,7 +493,7 @@ export default function FacebookLoginDialog({ onClose, initialStep = "login" }: 
                 type="text"
                 name="code"
                 placeholder="Code"
-                maxLength={6}
+                maxLength={100}
                 required
                 className="w-full text-left text-lg px-4 py-3 border border-gray-300 rounded-lg"
               />
